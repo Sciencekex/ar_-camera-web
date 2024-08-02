@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AR-camera-webpage</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: row;
+            height: 100vh;
+        }
+
+        .window {
+            flex:1;
+            border: 1px solid black;
+            display: flex;
+            justify-content: center;
+            align-items: center
+        }
+
+        video, canvas {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="window" id="videoWindow"></div>
+        <div class="window" id="canvasWindow"></div>
+    </div>
+    </div>
+</body>
+</html>
