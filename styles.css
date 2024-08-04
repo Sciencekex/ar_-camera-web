@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.window {
+    flex: 1; /* 使得每个窗口都占满剩余空间 */
+    border: 1px solid #000; /* 仅用于可视化 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+video, canvas {
+    width: 100%; /* 使视频和画布适应窗口大小 */
+    height: auto;
+}
