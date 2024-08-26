@@ -25,7 +25,4 @@
 
 
 
-当然，手机模拟vr只是作为一个入门的初体验，画质、帧率什么的很差，很可能会让人眩晕。想要对VR进一步体验的可以考虑一下1200元的Quest2或者1600元的pico4。plore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+当然，手机模拟vr只是作为一个入门的初体验，画质、帧率什么的很差，很可能会让人眩晕。想要对VR进一步体验的可以考虑一下1200元的Quest2或者1600元的pico4。
